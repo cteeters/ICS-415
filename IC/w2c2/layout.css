@@ -1,0 +1,49 @@
+#main_header {
+  position: static;
+  left: 0px;
+  width: 60%;
+  border-top: double;
+  border-right: double;
+  border-left: double;
+  height: 80px;
+  text-align: center;
+  margin: 0px;
+}
+#nav {
+  position: static;
+  left: 0px;
+  width: 60%;
+  border: double;
+  text-align: left;
+}
+#summ_win {
+  width: 20%;
+  text-align: center;
+  height: 750px;
+  float: left;
+  border-left: double;
+  border-bottom: double;
+  vertical-align: middle;
+}
+#main {
+  position: static;
+  left: 0px;
+  float: left;
+  width: 40%;
+  height: 750px;
+  text-align: left;
+  border-right: double;
+  border-bottom: double;
+  border-left: double;
+}
+#main_footer {
+  left: 0px;
+  width: 60%;
+  float: left;
+  border-bottom: double;
+  border-left: double;
+  border-right: double;
+  height: 30px;
+  text-align: center;
+  margin: 0px;
+}
