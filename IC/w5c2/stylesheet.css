@@ -1,0 +1,26 @@
+#box {
+  background-color: blue;
+  font-style: italic;
+  height: 200px;
+  width: 200px;
+  position: relative;
+}
+#box2 , #panel{
+  background-color: red;
+  font-style: oblique;
+  text-align: center;
+  padding: 5px;
+  border: solid 1px;
+  position: relative;
+}
+#panel{
+  padding: 50px;
+  display: none;
+}
+#box3 {
+  background-color: green;
+  font-family: serif;
+  height: 200px;
+  width: 200px;
+  position: relative;
+}
